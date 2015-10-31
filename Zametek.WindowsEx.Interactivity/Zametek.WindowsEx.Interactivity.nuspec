@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Zametek.WindowsEx.Interactivity</id>
+        <version>$version$</version>
+        <authors>countincognito</authors>
+        <owners>countincognito</owners>
+        <licenseUrl>https://github.com/countincognito/Zametek.WindowsEx.Interactivity/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/countincognito/Zametek.WindowsEx.Interactivity</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Zametek Windows extensions for interacting with XAML code.</description>
+        <copyright>Copyright (c) 2015 Riccardo M. Bennett-Lovsey</copyright>
+        <dependencies>
+            <group targetFramework=".NETFramework4.5">
+                <dependency id="Prism.Wpf" version="6.1.0" />
+            </group>
+        </dependencies>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.0" />
+            <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.0" />
+            <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.0" />
+            <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.0" />
+        </frameworkAssemblies>
+    </metadata>
+</package>
