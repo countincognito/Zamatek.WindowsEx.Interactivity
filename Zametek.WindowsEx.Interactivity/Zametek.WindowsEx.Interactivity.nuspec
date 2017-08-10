@@ -12,8 +12,7 @@
         <copyright>Copyright (c) 2017 Riccardo M. Bennett-Lovsey</copyright>
         <dependencies>
             <group targetFramework=".NETFramework4.5">
-                <dependency id="Prism.Wpf" version="6.1.0" />
-                <dependency id="Expression.Blend.Sdk" version="1.0.2" />
+                <dependency id="Prism.Wpf" version="6.3.0" />
             </group>
         </dependencies>
         <frameworkAssemblies>
