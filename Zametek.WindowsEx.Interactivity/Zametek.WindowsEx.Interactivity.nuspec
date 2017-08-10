@@ -9,10 +9,11 @@
         <projectUrl>https://github.com/countincognito/Zametek.WindowsEx.Interactivity</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Zametek Windows extensions for interacting with XAML code.</description>
-        <copyright>Copyright (c) 2015 Riccardo M. Bennett-Lovsey</copyright>
+        <copyright>Copyright (c) 2017 Riccardo M. Bennett-Lovsey</copyright>
         <dependencies>
             <group targetFramework=".NETFramework4.5">
                 <dependency id="Prism.Wpf" version="6.1.0" />
+                <dependency id="Expression.Blend.Sdk" version="1.0.2" />
             </group>
         </dependencies>
         <frameworkAssemblies>
