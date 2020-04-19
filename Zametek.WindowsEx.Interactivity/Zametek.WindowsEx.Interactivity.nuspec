@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
         <id>Zametek.WindowsEx.Interactivity</id>
-        <version>$version$</version>
+        <version>1.1.0</version>
         <authors>countincognito</authors>
         <owners>countincognito</owners>
         <licenseUrl>https://github.com/countincognito/Zametek.WindowsEx.Interactivity/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/countincognito/Zametek.WindowsEx.Interactivity</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Zametek Windows extensions for interacting with XAML code.</description>
-        <copyright>Copyright (c) 2017 Riccardo M. Bennett-Lovsey</copyright>
+        <description>Zametek Windows extensions for interacting with XAML code. This package is now obsolete, please use Zametek.Windows.Interactivity.Core instead.</description>
+        <copyright>Copyright (c) 2020 Riccardo M. Bennett-Lovsey</copyright>
         <dependencies>
-            <group targetFramework=".NETFramework4.5">
+            <group targetFramework=".NETFramework4.6.2">
                 <dependency id="Prism.Wpf" version="6.3.0" />
             </group>
         </dependencies>

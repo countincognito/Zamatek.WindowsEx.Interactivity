@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Zametek.WindowsEx.Interactivity")]
-[assembly: AssemblyDescription("Zametek Windows extensions for interacting with XAML code")]
+[assembly: AssemblyDescription("Zametek Windows extensions for interacting with XAML code. This package is now obsolete, please use Zametek.Windows.Interactivity.Core instead.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Riccardo M. Bennett-Lovsey")]
 [assembly: AssemblyProduct("Zametek.WindowsEx.Interactivity")]
-[assembly: AssemblyCopyright("Copyright (c) 2015")]
+[assembly: AssemblyCopyright("Copyright (c) 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
